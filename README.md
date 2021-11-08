@@ -7,27 +7,28 @@ I'm Amish MAqbool  (he/him). I'm a FullStack && Front-End Software Engineer by p
 ### 📇 Email
 
 # Technologies I Have work With:
-⭐️ HTML5, CSS3 (Less and SASS)
-⭐️ Bootstrap, Material UI, Tailwind CSS, Ant Design,React-Suite
-⭐️ JavaScript/Typecript
-⭐️ React.js, React-Native.js, PWA, Vue.js,Expo
-⭐️ Redux/Redux thunk/Redux toolkit
-⭐️ Next.js, Gatsby
-⭐️ Apollo Graph QL
-⭐️ Node.JS and Express.js
-⭐️ Firebase,Firestore
-⭐️ MongoDB,Mongoose,
-⭐️ Aws Amplify
-⭐️ Git, Bitbucket
-⭐️ Jam Stack(Nextjs, Gatsby.js, Contentful/Strapi, Netlify/Vercel)
-⭐️ PropTech Expert
-⭐️ Custom UI Expert
-⭐️ Custom Web Theme Development Expert
-⭐️ Dashboards/Custom CMS Development Expert
-⭐️ SAAS,PAAS Expert
+###### ⭐️ HTML5, CSS3 (Less and SASS)
+###### ⭐️ Bootstrap, Material UI, Tailwind CSS, Ant Design,React-Suite
+###### ⭐️ JavaScript/Typecript
+###### ⭐️ React.js, React-Native.js, PWA, Vue.js,Expo
+###### ⭐️ Redux/Redux thunk/Redux toolkit
+###### ⭐️ Next.js, Gatsby
+###### ⭐️ Apollo Graph QL
+###### ⭐️ Node.JS and Express.js
+###### ⭐️ Firebase,Firestore
+###### ⭐️ MongoDB,Mongoose,
+###### ⭐️ Aws Amplify
+###### ⭐️ Git, Bitbucket
+###### ⭐️ Jam Stack(Nextjs, Gatsby.js, Contentful/Strapi, Netlify/Vercel)
+###### ⭐️ PropTech Expert
+###### ⭐️ Custom UI Expert
+###### ⭐️ Custom Web Theme Development Expert
+###### ⭐️ Dashboards/Custom CMS Development Expert
+###### ⭐️ SAAS,PAAS Expert
 # Area of Intrest To Grow:
-⭐️ Node JS BAckend
-⭐️ Nest JS
-⭐️ AWS
+###### ⭐️ Node JS BAckend
+###### ⭐️ Nest JS
+###### ⭐️ AWS 
+###### ⭐️ AWS solution Architecture
 
 
