@@ -25,7 +25,6 @@ I'm Amish Maqbool(he/him). I'm a FullStack && Front-End Software Engineer by pas
 ###### ⭐️ Custom Web Theme Development Expert
 ###### ⭐️ Dashboards/Custom CMS Development Expert
 ###### ⭐️ SAAS,PAAS Expert
-# Area of Intrest To Grow:
 ###### ⭐️ Node JS Backend
 ###### ⭐️ Nest JS
 ###### ⭐️ AWS 
