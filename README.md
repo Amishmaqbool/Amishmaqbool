@@ -7,27 +7,8 @@ I'm Amish Maqbool(he/him). I'm a FullStack && Front-End Software Engineer by pas
 ### 📇 Email
 
 # Technologies I Have work With:
-###### ⭐️ HTML5, CSS3 (Less and SASS)
-###### ⭐️ Bootstrap, Material UI, Tailwind CSS, Ant Design,React-Suite
-###### ⭐️ JavaScript/Typecript
-###### ⭐️ React.js, React-Native.js, PWA, Vue.js,Expo
-###### ⭐️ Redux/Redux thunk/Redux toolkit
-###### ⭐️ Next.js, Gatsby
-###### ⭐️ Apollo Graph QL
-###### ⭐️ Node.JS and Express.js
-###### ⭐️ Firebase,Firestore
-###### ⭐️ MongoDB,Mongoose,
-###### ⭐️ Aws Amplify
-###### ⭐️ Git, Bitbucket
-###### ⭐️ Jam Stack(Nextjs, Gatsby.js, Contentful/Strapi, Netlify/Vercel)
-###### ⭐️ PropTech Expert
-###### ⭐️ Custom UI Expert
-###### ⭐️ Custom Web Theme Development Expert
-###### ⭐️ Dashboards/Custom CMS Development Expert
-###### ⭐️ SAAS,PAAS Expert
-###### ⭐️ Node JS Backend
-###### ⭐️ Nest JS
-###### ⭐️ AWS 
-###### ⭐️ AWS solution Architecture
-
-
+  | `https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png` |
+  | `https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png` |
+  | `https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png` |  
+  | `https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png` |
+  | `https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png` |
