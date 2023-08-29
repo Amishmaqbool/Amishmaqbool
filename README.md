@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Amish Maqbool
-I'm Amish Maqbool(he/him). I'm a FullStack && Front-End Software Engineer by passion and a Tech Savvy by choice living now in Canada. I created my first software in 2014 and have been passionate about Software Development since. I Have Also Completed my Graduation in Computer Science! I'm always working on a new project to help people bring innovation and maximum potential to there Application and Business.
+I'm Amish Maqbool, and I go by he/him pronouns. My passion lies in being a FullStack and Front-End Software Engineer, and my love for all things tech is a conscious choice. Currently residing in Canada, I've been immersed in the world of software development since I created my very first program in 2014. My educational background includes a degree in Computer Science, which has provided me with a strong foundation for my work.
+
+I'm constantly engaged in new projects, driven by the desire to assist individuals and businesses in unlocking innovation and realizing the full potential of their applications.
  
 ### 📫 How to reach me
 ### 🔗 I have a personal website at http://amkstudio.netlify.app where all my social networks are located! You can reach me anywhere over there!
