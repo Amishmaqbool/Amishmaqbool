@@ -40,7 +40,7 @@ I'm constantly engaged in new projects, driven by the desire to assist individua
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40" />&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"  title="Yarn" **alt="Yarn" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40" />&nbsp;
-  <img src=" https://seeklogo.com/images/C/contentful-logo-C395C545BF-seeklogo.com.png" title="AWS" **alt="Contentful" width="40" height="40" />&nbsp;
+  <img src="https://seeklogo.com/images/C/contentful-logo-C395C545BF-seeklogo.com.png" title="AWS" **alt="Contentful" width="40" height="40" />&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_185brbi3EySBAiV_LQAcmyRBnSvsQftXWDY1G49rg&s" title="Strapi" **alt="AWS" width="40" height="40" />&nbsp;
  <img src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" title="Strapi" **alt="Astro" width="40" height="40" /> ...
           
