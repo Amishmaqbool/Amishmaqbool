@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Amish Maqbool
-And I go by he/him pronouns. My passion lies in being a FullStack and Front-End Software Engineer, and my love for all things tech is a conscious choice. Currently residing in Canada, I've been immersed in the world of software development since I created my very first program in 2014. My educational background includes a degree in Computer Science, which has provided me with a strong foundation for my work.
+And I go by he/him pronouns. My passion lies in being a FullStack and Front-End Software Engineer, and my love for all things tech is a conscious choice. Currently residing in Pakistan, I've been immersed in the world of software development since I created my very first program in 2014. My educational background includes a degree in Computer Science, which has provided me with a strong foundation for my work.
 
 I'm constantly engaged in new projects, driven by the desire to assist individuals and businesses in unlocking innovation and realizing the full potential of their applications.
  
