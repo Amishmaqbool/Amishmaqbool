@@ -42,7 +42,7 @@ I'm constantly engaged in new projects, driven by the desire to assist individua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40" />&nbsp;
   <img src="https://seeklogo.com/images/C/contentful-logo-C395C545BF-seeklogo.com.png" title="AWS" **alt="Contentful" width="40" height="40" />&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_185brbi3EySBAiV_LQAcmyRBnSvsQftXWDY1G49rg&s" title="Strapi" **alt="AWS" width="40" height="40" />&nbsp;
- <img src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" title="Strapi" **alt="Astro" width="40" height="40" />&nbsp;
+ <img src="https://avatars.githubusercontent.com/u/44914786?s=48&v=4" title="Astro" **alt="Astro" width="40" height="40" />&nbsp;
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVgGab_Gq7s6iO9LSaAGe2ALEmKK_yAQ3geW0NTBN8w&s" title="Strapi" **alt="Azure" width="40" height="40" /> ...    
           
           
