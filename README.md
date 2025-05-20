@@ -40,10 +40,10 @@ I'm constantly engaged in new projects, driven by the desire to assist individua
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40" />&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"  title="Yarn" **alt="Yarn" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40" />&nbsp;
-  <img src="https://seeklogo.com/images/C/contentful-logo-C395C545BF-seeklogo.com.png" title="AWS" **alt="Contentful" width="40" height="40" />&nbsp;
+  <img src="https://images.ctfassets.net/jtqsy5pye0zd/6wNuQ2xMvbw134rccObi0q/bf61badc6d6d9780609e541713f0bba6/Contentful_Logo_2.5_Dark.svg?w=384&q=100" title="ContentfulCMS" **alt="Contentful" width="40" height="40" />&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_185brbi3EySBAiV_LQAcmyRBnSvsQftXWDY1G49rg&s" title="Strapi" **alt="AWS" width="40" height="40" />&nbsp;
  <img src="https://avatars.githubusercontent.com/u/44914786?s=48&v=4" title="Astro" **alt="Astro" width="40" height="40" />&nbsp;
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVgGab_Gq7s6iO9LSaAGe2ALEmKK_yAQ3geW0NTBN8w&s" title="Strapi" **alt="Azure" width="40" height="40" /> ...    
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVgGab_Gq7s6iO9LSaAGe2ALEmKK_yAQ3geW0NTBN8w&s" title="Strapi" **alt="Azure" width="40" height="40" /> ...    
           
           
 </div>
