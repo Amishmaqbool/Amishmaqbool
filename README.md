@@ -91,7 +91,7 @@ Figma, UI/UX, APIs, REST, GraphQL, Microservices, SaaS, E-commerce, Headless CMS
 ## 🌐 Let’s Connect & Work Together
 
 - **Portfolio & Socials:** [amkstudio.netlify.app](http://amkstudio.netlify.app)
-- **Upwork:** [Top Rated Plus Profile](https://www.upwork.com/freelancers/~amish)
+- **Upwork:** [Top Rated Plus Profile](https://www.upwork.com/freelancers/amish)
 - **Open to:** Consulting, New Projects, Partnerships, Speaking, Team Leadership
 
 ---
