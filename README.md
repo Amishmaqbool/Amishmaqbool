@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Amish Maqbool (he/him)
 
-🌟 10+ Years in Tech | Founder  | Mentor | CTO | Engineering Manager | Software Engineer | IT & Software Consultant | Full-Stack engineer | Frontend Engineer | Software Engineer | Cloud Architect | Saas Platform Specialist 
+🌟 10+ Years in Tech | Founder  | Mentor | CTO | creative director/ ui/ux designer | Engineering Manager | Software Engineer | IT & Software Consultant | Full-Stack engineer | Frontend Engineer | Software Engineer | Cloud Architect | Saas Platform Specialist | AI engineer
 🏆 Upwork Top Rated Plus (10+ Years)  
 🌎 Based in Pakistan | Working Globally
 
