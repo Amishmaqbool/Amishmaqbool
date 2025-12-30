@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Amish Maqbool (he/him)
 
-🌟 10+ Years in Tech | Founder  | Mentor | CTO | Engineering Manager | Consultant | Full-Stack engineer | Frontend Engineer | Software Engineer | Cloud Architect  
+🌟 10+ Years in Tech | Founder  | Mentor | CTO | Engineering Manager | Software Engineer | IT & Software Consultant | Full-Stack engineer | Frontend Engineer | Software Engineer | Cloud Architect  
 🏆 Upwork Top Rated Plus (10+ Years)  
 🌎 Based in Pakistan | Working Globally
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-With over a decade of industry experience, I’ve worn many hats: Founder, CTO, Engineering Manager, Fullstack Engineer, Software Engineer, Product Owner, Consultant, and Frontend Engineer. As a leader and hands-on technologist, I empower startups, enterprises, and agencies to build scalable, innovative, and profitable digital products. My passion: rapid prototyping, world-class UI/UX, and cloud-native solutions that turn ideas into impact.
+With over a decade of industry experience, I’ve worn many hats: Founder, CTO, Engineering Manager, Fullstack Engineer, Software Engineer, Product Owner, IT & Software Consultant, and Frontend Engineer. As a leader and hands-on technologist, I empower startups, enterprises, and agencies to build scalable, innovative, and profitable digital products. My passion: rapid prototyping, world-class UI/UX, and cloud-native solutions that turn ideas into impact.
 
 ---
 
